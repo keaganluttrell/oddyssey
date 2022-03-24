@@ -1,0 +1,2 @@
+# oddyssey
+C programming exercises
